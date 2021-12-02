@@ -15,6 +15,7 @@ public class GitTest {
         System.out.println("hello git3 hot-fix");
         System.out.println("hello git4 master");
         System.out.println("hello git5 master");
+         System.out.println("hello git6 master");
         List<Object> objects = new ArrayList<>();
     }
 }

@@ -13,6 +13,7 @@ public class GitTest {
         System.out.println("hello git");
         System.out.println("hello git2");
         System.out.println("hello git4 master");
+        System.out.println("hello git3 hot-fix");
         List<Object> objects = new ArrayList<>();
     }
 }
